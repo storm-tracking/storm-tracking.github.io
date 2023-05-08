@@ -7,4 +7,4 @@ Here you can see how the different tracking algorithms capture and interprete di
 
 ## South America Affinity Group 
 
-![](idealized_saag.png)
+![](images/idealized_saag.png)
