@@ -19,9 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "idealized_cases.md", title: "Idealized cases"}
   - {file: "datasets.md", title: "MCS datasets"}
 
-#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:@"}
-- {title: Github, icon: github, url: "https://github.com/storm-tracking"}
+external:               
+  - {title: Github, icon: github, url: "https://github.com/storm-tracking"}
  
 plugins:
  - jekyll-feed
