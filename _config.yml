@@ -1,0 +1,27 @@
+title: "Tracking convective storms in climate data"
+author: "Tracking convective storms in climate data"
+description: "Storm tracking community"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_excerpts: false        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: true             # use a dark header
+
+# Menu
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "Home"}
+  - {file: "trackers.md", title: "Tracking algorithms"}
+  - {file: "idealized_cases.md", title: "Idealized cases"}
+  - {file: "datasets.html", title: "MCS datasets"}
+
+#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#  - {title: Mail, icon: envelope, url: "mailto:@"}
+- {title: Github, icon: github, url: "https://github.com/storm-tracking"}
+ 
+plugins:
+ - jekyll-feed
