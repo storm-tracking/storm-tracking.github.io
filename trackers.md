@@ -22,7 +22,7 @@ Currently PyFLEXTRKR supports tracking:
 
 **Reference**
 
-Feng, Z., Hardin, J., Barnes, H. C., Leung, L. R., Varble, A., & Zhang, Z. (2022). PyFLEXTRKR: a Flexible Feature Tracking Python Software for Convective Cloud Analysis. EGUsphere [preprint]. [https://doi.org/10.5194/egusphere-2022-1136](https://doi.org/10.5194/egusphere-2022-1136)
+Feng, Z., Hardin, J., Barnes, H. C., Li, J., Leung, L. R., Varble, A., & Zhang, Z. (2023). PyFLEXTRKR: a flexible feature tracking Python software for convective cloud analysis. Geosci. Model Dev., 16(10), 2753-2776, doi:[10.5194/gmd-16-2753-2023](https://doi.org/10.5194/gmd-16-2753-2023)
 
 ## [tobac](https://tobac.readthedocs.io/en/latest/)
 
