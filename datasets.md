@@ -63,3 +63,35 @@ The U.S. MCS database is available on the U.S. Department of Energy Atmospheric 
 ### References
 
 Feng, Z., Houze, R. A., Leung, L. R., Song, F., Hardin, J. C., Wang, J., et al. (2019). Spatiotemporal Characteristics and Large-scale Environments of Mesoscale Convective Systems East of the Rocky Mountains. Journal of Climate, 32(21), 7303-7328, doi:[10.1175/JCLI-D-19-0137.1](https://doi.org/10.1175/JCLI-D-19-0137.1).
+
+
+
+## MCS Database over East Asia/ Tibetan Plateau region 
+
+The MCS database over East Asia covers the past two decades (**2000-2019**) and holds information on MCS tracks identified in satellite data (GPM IMERG and merged IR brightness temperatures from geostationary satellites). This database covers the Tibetan Plateau and its surrounding continental areas. Due to the relatively large area requirement, this database contains mainly large MCSs, but contains also a subdataset with  meso-beta convective systems over the mountainous regions.
+
+
+**Satellite image** showing large storm systems over, south, and east of the Tibetan Plateau. 
+
+![](images/himawari_tp.png)
+
+**Climatology** of MCS-associated summer precipitation over the Tibetan Plateau and surrounding river basins. 
+
+![](images/Kukulies_MCS_rainfall.png) 
+
+
+### Data Access 
+
+The MCS track statistics can be downloaded from [Zenodo](https://zenodo.org/record/4767152). The Mask files can be obtained upon request: julia.kukulies@gu.se. 
+
+
+### References 
+
+Kukulies, J., Chen, D., & Curio, J. (2021). The role of mesoscale convective systems in precipitation in the Tibetan Plateau region. Journal of Geophysical Research: Atmospheres, 126(23), e2021JD035279, doi:[10.1029/2021JD035279](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035279). 
+
+Kukulies, J., Lai, H. W., Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S. & Chen, D. (2023). Mesoscale convective systems in the third pole region: Characteristics, mechanisms and impact on precipitation. Frontiers in Earth Science, 11(PNNL-SA-184361), doi:[10.3389/feart.2023.1143380/](https://www.frontiersin.org/articles/10.3389/feart.2023.1143380/full#main-content). 
+
+
+
+
+
