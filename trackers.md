@@ -61,6 +61,7 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 4. **Assignment of rainfall (or variable of choice)**- Through the use of the helper function 'tams.data_in_contours', a variable of choice can be added to each CEs in order to study the MCS evolution across different statistical analysis and atmospheric variables 
 
 **Settings**
+
 Users can choose outer and core thresholds of CEs for object detection, optionally define zonal projection velocity, and choose the % overlap threshold for time matching.
 
 **Helper functions and utilities**
