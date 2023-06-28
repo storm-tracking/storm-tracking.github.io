@@ -55,10 +55,10 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 
 **TAMS** has four main steps: 
 
-1. **Identify**- Through Xarray or Pandas, cloud elements (CEs) that are MCS via default criteria candidates are identified through temperature thresholds (if using satellite data) or cloud top temperature proxy (model data) 
+1. **Identify**- Through Xarray or Pandas, cloud elements (CEs) that are MCS candidates via default criteria are identified through temperature thresholds (if using satellite data) or cloud top temperature proxy (model data) 
 2. **Tracking**- Overlap method and optional cloud projection in the x direction
-3. **Classification**- Based on default criteria considering shape, size, and duration, Each MCS is classified into one of four possible categories 
-4. **Assignment of rainfall (or variable of choice)**- Through the use of the helper function 'tams.data_in_contours', a variable of choice can be added to each CEs in order to study the MCS evolution across different statistical analysis and atmospheric variables 
+3. **Classification**- Based on default criteria considering shape, size, and duration, each MCS is classified into one of four possible categories 
+4. **Assignment of rainfall (or variable of choice)**- Through the use of the helper function 'tams.data_in_contours', a variable of choice can be added to each CE in order to study the MCS evolution across different statistical analysis and atmospheric variables 
 
 **Settings**
 
