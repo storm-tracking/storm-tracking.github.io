@@ -48,6 +48,12 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 
 ## TOOCAN
 
-## TAMS
+## [TAMS](https://tams.readthedocs.io)
+
+TAMS (**T**racking **A**lgorithm for **M**esoscale Convective **S**ystems) is an MCS tracker and classifier.
+TAMS was [originally developed](https://doi.org/10.1175/MWR-D-19-0070.1) for tracking and analyzing MCSs associated with African easterly waves (AEWs).
+
+The currently developed TAMS is a scientific Python package.
+TAMS uses the [GeoPandas dataframe](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html) data structure to store polygon shapes of the elements to be tracked.
 
 ## MOAAP 
