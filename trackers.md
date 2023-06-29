@@ -65,6 +65,7 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 Users can choose outer and core thresholds of CEs for object detection, optionally define zonal projection velocity, and choose the % overlap threshold for time matching.
 
 **Helper functions and utilities**
+Helper functions include calculation of eccentricity (a measure of the shape of MCS), plotting of MCS tracks, loading sample [MSG](https://www.eumetsat.int/0-degree-service) ch9 and [MPAS](https://mpas-dev.github.io/) data, an example of MPAS Cloud Top Temperature calculation from OLR, Jupyter Notebooks, and others.
  
 **References**
 
