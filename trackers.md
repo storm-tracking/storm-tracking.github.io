@@ -49,7 +49,10 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 ## TOOCAN
 
 ## [TAMS](https://tams.readthedocs.io)
-![image](https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/7596aba0-90eb-4868-a22a-9c2796c0a2d3)
+
+<img src="https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/7596aba0-90eb-4868-a22a-9c2796c0a2d3)"
+ alt="TAMS logo"
+ width="200">
 
 **TAMS** (**T**racking **A**lgorithm for **M**esoscale Convective **S**ystems) is an MCS tracker and classifier. TAMS was [originally developed](https://doi.org/10.1175/MWR-D-19-0070.1) for tracking and analyzing MCSs associated with African easterly waves (AEWs). The currently developed TAMS is a scientific Python package. **TAMS** uses the [GeoPandas dataframe](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html) data structure to store polygon shapes of the elements to be tracked. It is a grid-independent MCS identifier and tracker, and as such, it can be applied for both simulated and observed MCSs. It is available to be installed via pip or conda/mamba. 
 
@@ -60,7 +63,7 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 3. **Classification**- Based on default criteria considering shape, size, and duration, each MCS is classified into one of four possible categories 
 4. **Assignment of rainfall (or variable of choice)**- Through the use of the helper function 'tams.data_in_contours', a variable of choice can be added to each CE in order to study the MCS evolution across different statistical analysis and atmospheric variables 
 
-Currently, **Identify**, **Assignment**, and some post-processing can be done in parallelization.  
+Currently, **Identify**, **Assignment**, and some post-processing can be done in parallel.
 
 **Settings**
 
@@ -70,10 +73,10 @@ Users can choose outer and core thresholds of CEs for object detection, optional
 
  Users can use the eccentricity calculation function as a measure of the MCS shape. Other functions include plotting MCS tracks, loading sample [MSG](https://www.eumetsat.int/0-degree-service) ch9 satellite data, and [MPAS](https://mpas-dev.github.io/) data. Jupyter Notebooks and examples are available for calculating brightness temperature from EUMETSAT, MPAS Cloud Top Temperature from OLR, and others.
 
-
 **References**
 
 Kelly M. Núñez Ocasio, Jenni L. Evans, and George S. Young. Tracking Mesoscale Convective Systems that are Potential Candidates for Tropical Cyclogenesis. Monthly Weather Review, 148(2):655 – 669, Feb 2020. URL: [https://journals.ametsoc.org/view/journals/mwre/148/2/mwr-d-19-0070.1.xml], (doi:10.1175/MWR-D-19-0070.1).
 
 Kelly M. Núñez Ocasio, Jenni L. Evans, and George S. Young. A Wave-Relative Framework Analysis of AEW–MCS Interactions Leading to Tropical Cyclogenesis. Monthly Weather Review, 148(11):4657 – 4671, Nov 2020. URL: [https://journals.ametsoc.org/view/journals/mwre/148/11/MWR-D-20-0152.1.xml], (doi:10.1175/MWR-D-20-0152.1).
+
 ## MOAAP 
