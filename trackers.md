@@ -60,9 +60,16 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 3. **Classification**- Based on default criteria considering shape, size, and duration, each MCS is classified into one of four possible categories 
 4. **Assignment of rainfall (or variable of choice)**- Through the use of the helper function 'tams.data_in_contours', a variable of choice can be added to each CE in order to study the MCS evolution across different statistical analysis and atmospheric variables 
 
+Currently, **Identify**, **Assignment**, and some post-processing can be done in parallelization.  
+
 **Settings**
 
 Users can choose outer and core thresholds of CEs for object detection, optionally define zonal projection velocity, and choose the % overlap threshold for time matching.
+
+**Helper functions and utilities**
+
+ Users can use the eccentricity calculation function as a measure of the MCS shape. Other functions include plotting MCS tracks, loading sample [MSG](https://www.eumetsat.int/0-degree-service) ch9 satellite data, and [MPAS](https://mpas-dev.github.io/) data. Jupyter Notebooks and examples are available for calculating brightness temperature from EUMETSAT, MPAS Cloud Top Temperature from OLR, and others.
+
 
 **References**
 
