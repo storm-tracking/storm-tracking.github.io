@@ -119,8 +119,10 @@ The African easterly wave-MCS dataset over Tropical Africa and Eastern Atlantic 
 
 **Schematic of how MCSs ara matched to AEWs** 
 
-![image](https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/d7afc8b6-fea2-4253-b839-c88571e655a0)
-
+<img src="(https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/d7afc8b6-fea2-4253-b839-c88571e655a0)"
+ alt="Schematic"
+ width="200">
+ 
 ### Data Access
 
 The MCS database can be downloaded from [Penn State Data Commons](https://www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6248). Please refer to the README.txt file for more information and/or email: knocasio@ucar.edu.  
