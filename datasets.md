@@ -117,9 +117,9 @@ Kelly M. Núñez Ocasio, Jenni L. Evans, and George S. Young. Tracking Mesoscale
 
 The African easterly wave-MCS dataset over Tropical Africa and Eastern Atlantic is a 5-year climatology (2004-2008) for August through September. The dataset was developed using a combination of TAMS MCS tracks and an African easterly wave (AEW) track data. AEW-MCS dataset is structured to include information about the tracks, characteristics, and rainfall for MCSs, each one matched to its corresponding developing AEW (becomes a tropical cyclone) and non-developing AEW. The data also includes information about the earth-relative propagation speeds from both AEWs and associated MCSs as well as wave-relative speed for the MCSs.  
 
-**Schematic of how MCSs ara matched to AEWs** 
+**Schematic of how MCSs are matched to AEWs** 
 
-<img src="(https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/d7afc8b6-fea2-4253-b839-c88571e655a0)"
+<img src="https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/d7afc8b6-fea2-4253-b839-c88571e655a0"
  alt="Schematic"
  width="200">
  
