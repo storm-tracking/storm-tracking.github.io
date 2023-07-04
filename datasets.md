@@ -99,6 +99,10 @@ Kukulies, J., Lai, H. W., Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S. & C
 
 The MCS database over Tropical Africa and Eastern Atlantic is a 5-year climatology (2004-2008) for August through September. The data uses TAMS and holds information about each MCS and corresponding rain rates from MSG geostationary IR (ch9) satellite and IMERG data. For each year there are three different types of MCS files including MCS track files for different assigned background flows. The data is in .mat form (MATLAB) but can re readable via Python. 
 
+**25 tracks of diffretn types of MCSs by TAMS from 17 to 21 Aug 2006 during the same time a developing AEW that then became Tropical Storm Debby was active**
+
+![image](https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/c3c34b44-ba61-4eed-94e5-736d27d28a8e)
+
 ### Data Access
 
 The MCS database can be downloaded from [Penn State Data Commons](https://www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6243). Please refer to the README.txt file for more information and/or email: knocasio@ucar.edu. 
