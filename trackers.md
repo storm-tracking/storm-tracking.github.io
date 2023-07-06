@@ -50,7 +50,7 @@ Heikenfeld, M., Marinescu, P. J., Christensen, M., Watson-Parris, D., Senf, F., 
 
 ## [TAMS](https://tams.readthedocs.io)
 
-<img src="https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/7596aba0-90eb-4868-a22a-9c2796c0a2d3)"
+<img src="https://raw.githubusercontent.com/knubez/TAMS/main/docs/_static/TAMS-logo.png"
  alt="TAMS logo"
  width="200">
 
