@@ -93,5 +93,40 @@ Kukulies, J., Lai, H. W., Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S. & C
 
 
 
+## MCS Database over Tropical Africa and Eastern Atlantic 
+
+## TAMS Regional MCS Tracking Data 
+
+The MCS database over Tropical Africa and Eastern Atlantic is a 5-year climatology (2004-2008) for August through September. The data uses TAMS and holds information about each MCS and corresponding rain rates from MSG geostationary IR (ch9) satellite and IMERG data. For each year there are three different types of MCS files including MCS track files for different assigned background flows. The data is in .mat form (MATLAB) but can be readable via Python. 
+
+**25 tracks of different types of MCSs by TAMS from 17 to 21 Aug 2006 during the same time a developing AEW that then became Tropical Storm Debby was active**
+
+![image](https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/c3c34b44-ba61-4eed-94e5-736d27d28a8e)
+
+### Data Access
+
+The MCS database can be downloaded from [Penn State Data Commons](https://www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6243). Please refer to the README.txt file for more information and/or email: knocasio@ucar.edu. 
+
+### Reference
+
+Kelly M. Núñez Ocasio, Jenni L. Evans, and George S. Young. Tracking Mesoscale Convective Systems that are Potential Candidates for Tropical Cyclogenesis. Monthly Weather Review, 148(2):655 – 669, Feb 2020. URL: [https://journals.ametsoc.org/view/journals/mwre/148/2/mwr-d-19-0070.1.xml], (doi:10.1175/MWR-D-19-0070.1).
 
 
+
+## African Easterly Waves-MCSs Coupled System Database over Tropical Africa and Eastern Atlantic 
+
+The African easterly wave-MCS dataset over Tropical Africa and Eastern Atlantic is a 5-year climatology (2004-2008) for August through September. The dataset was developed using a combination of TAMS MCS tracks and an African easterly wave (AEW) track data. AEW-MCS dataset is structured to include information about the tracks, characteristics, and rainfall for MCSs, each one matched to its corresponding developing AEW (becomes a tropical cyclone) and non-developing AEW. The data also includes information about the earth-relative propagation speeds from both AEWs and associated MCSs as well as wave-relative speed for the MCSs.  
+
+**Schematic of how MCSs are matched to AEWs** 
+
+<img src="https://github.com/storm-tracking/storm-tracking.github.io/assets/74216009/d7afc8b6-fea2-4253-b839-c88571e655a0"
+ alt="Schematic"
+ width="200">
+ 
+### Data Access
+
+The MCS database can be downloaded from [Penn State Data Commons](https://www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6248). Please refer to the README.txt file for more information and/or email: knocasio@ucar.edu.  
+
+### Reference
+
+Kelly M. Núñez Ocasio, Jenni L. Evans, and George S. Young. A Wave-Relative Framework Analysis of AEW–MCS Interactions Leading to Tropical Cyclogenesis. Monthly Weather Review, 148(11):4657 – 4671, Nov 2020. URL: [https://journals.ametsoc.org/view/journals/mwre/148/11/MWR-D-20-0152.1.xml], (doi:10.1175/MWR-D-20-0152.1).
